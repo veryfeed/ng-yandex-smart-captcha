@@ -1,0 +1,1 @@
+# ng-yandex-smart-captcha
